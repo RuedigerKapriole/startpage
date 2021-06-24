@@ -12,6 +12,7 @@ The Page could look like this, but you can change the picture/gif and the text.
 # FAQ
   
 How do I change something?
+  
   -If you want to change something, you need to download and open the index.htmt-file with a text-editor. Inside the text-editor, you will replace the text "your-text" with you site-name and the "your-link"-text with you webadress like https://www.github.com/RuedigerKapriole.
   
   
